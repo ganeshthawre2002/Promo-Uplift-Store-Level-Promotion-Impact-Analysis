@@ -159,6 +159,6 @@ Using **Python, PostgreSQL-style queries, Excel, and Power BI dashboards**, we c
 **Ganesh Chandrashekhar Thaware**  
 Data Analyst | Business Analytics | Power BI | SQL | Python  
 📍 Saoner, Maharashtra, India  
-🔗 [LinkedIn](www.linkedin.com/in/ganesh-thawre2002) | [GitHub](https://github.com/ganeshthawre2002)
+🔗 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](http://linkedin.com/in/ganesh-thawre2002) | [GitHub](https://github.com/ganeshthawre2002)
 
 ---
