@@ -14,6 +14,7 @@ Using **Python, PostgreSQL-style queries, Excel, and Power BI dashboards**, we c
   - `store level promo impact.csv` → Store-wise promotional performance metrics.
 
 ---
+<img width="1132" height="806" alt="DASHBOARD HOME PAGE " src="https://github.com/user-attachments/assets/93ce5d5d-db55-4503-9b37-bdc8ebdb972a" />
 
 
 
@@ -38,6 +39,7 @@ Using **Python, PostgreSQL-style queries, Excel, and Power BI dashboards**, we c
 - Worst performing category: **Household (-3.1%)**
 
 ---
+<img width="1243" height="331" alt="trend table " src="https://github.com/user-attachments/assets/ba527a7f-43c4-4832-848e-de0eec3d57e2" />
 
 
 
@@ -62,6 +64,7 @@ Using **Python, PostgreSQL-style queries, Excel, and Power BI dashboards**, we c
   - **North Zone → Avg uplift 8.4%**
 
 ---
+<img width="1722" height="275" alt="store table " src="https://github.com/user-attachments/assets/b61b6d36-3c94-4792-8803-5c4965a0ed1e" />
 
 
 
@@ -86,6 +89,7 @@ Using **Python, PostgreSQL-style queries, Excel, and Power BI dashboards**, we c
    - Segmented underperforming vs high-performing campaigns.
 
 ---
+<img width="1085" height="681" alt="for pdf 1 " src="https://github.com/user-attachments/assets/a8689af9-955a-43c2-830d-7de9eda55e82" />
 
 
 ## 🔑 Key Insights
@@ -109,6 +113,7 @@ Using **Python, PostgreSQL-style queries, Excel, and Power BI dashboards**, we c
 
 ---
 
+<img width="803" height="645" alt="checking promo impact by month " src="https://github.com/user-attachments/assets/8bf78056-f566-49b9-91eb-4c55fe7d037f" />
 
 
 ## 📊 Dashboard Preview
@@ -118,7 +123,7 @@ Using **Python, PostgreSQL-style queries, Excel, and Power BI dashboards**, we c
 - Regional impact maps  
 - Category-wise promo effectiveness  
 
-*(Add screenshots from `visuals/` folder)*
+**
 
 ---
 
