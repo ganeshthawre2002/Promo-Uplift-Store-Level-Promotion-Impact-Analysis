@@ -123,9 +123,18 @@ Using **Python, PostgreSQL-style queries, Excel, and Power BI dashboards**, we c
 - Regional impact maps  
 - Category-wise promo effectiveness  
 
-**
+**<img width="1132" height="806" alt="DASHBOARD HOME PAGE " src="https://github.com/user-attachments/assets/e19809e1-678f-4a95-8b59-9424538f88b9" />
 
----
+
+---<img width="1125" height="687" alt="SALES TREND AND FORECAST " src="https://github.com/user-attachments/assets/5bdc006c-fd8f-4829-969d-6d8a6c772c11" />
+
+
+<img width="1116" height="677" alt="PERFORMANCE AND PROMO IMPACT 2 " src="https://github.com/user-attachments/assets/f2b08d55-f096-48ed-ad87-e17fc03d0afb" />
+
+
+<img width="1116" height="677" alt="DASHBOARD PERFORMANCE AND PROMO IMPACT " src="https://github.com/user-attachments/assets/3e5484c1-eb9b-4dbb-9ff5-6e2586181ea3" />
+
+
 
 
 ## 📘 Deliverables
